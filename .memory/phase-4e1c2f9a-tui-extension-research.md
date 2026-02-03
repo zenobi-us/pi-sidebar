@@ -2,7 +2,7 @@
 id: 4e1c2f9a
 title: TUI Extension Research
 created_at: 2026-02-03T18:48:30+10:30
-updated_at: 2026-02-03T18:48:30+10:30
+updated_at: 2026-02-03T18:56:00+10:30
 status: planning
 epic_id: 7f2c1a9b
 start_criteria: Epic approved and phase planning reviewed by human.
@@ -17,6 +17,8 @@ Identify pi TUI extension APIs, component lifecycle constraints, and existing pa
 ## Deliverables
 - Research document covering TUI extension points, rendering APIs, layout constraints, and focus management.
 - Catalog of existing components or examples that influence the drawer design.
+- Summary of potential challenges and considerations for implementing a side drawer in the pi TUI framework.
+- Ways we can allow other extensions to integrate with the side drawer extension.
 
 ## Tasks
 - TBD after research questions are defined and reviewed.
