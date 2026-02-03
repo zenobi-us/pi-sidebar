@@ -1,6 +1,6 @@
 {
   "name": "@zenobius/pi-sidebar",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "a sidebar to track session information. modular, extensible",
   "keywords": [
     "pi-package"
