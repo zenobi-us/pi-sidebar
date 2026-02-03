@@ -15,6 +15,7 @@ Create a pi-package that provides a TUI extension for rendering a side drawer, e
 - Extension renders a configurable left/right side drawer in the TUI.
 - Drawer supports open/close transitions and focus management.
 - Public API is documented with usage examples.
+  - Provides some api to register sidebar blocks.
 - Package builds and passes tests in the pi-sidebar repository.
 
 ## Phases
