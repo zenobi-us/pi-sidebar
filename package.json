@@ -1,10 +1,10 @@
 {
-  "name": "my-bun-module",
+  "name": "@zenobius/pi-sidebar",
   "version": "0.1.0",
-  "description": "A Bun module",
+  "description": "a sidebar to track session information. modular, extensible",
   "author": {
-    "name": "Your Name",
-    "email": "you@example.com"
+    "name": "Zenobius Jiricek",
+    "email": "airtonix@users.noreply.github.com"
   },
   "type": "module",
   "exports": {
