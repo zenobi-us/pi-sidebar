@@ -2,8 +2,8 @@
 id: a1c4e2f7
 title: TUI Extension Research
 created_at: 2026-02-03T18:52:30+10:30
-updated_at: 2026-02-03T18:52:30+10:30
-status: in-progress
+updated_at: 2026-02-03T19:45:00+10:30
+status: completed
 epic_id: 7f2c1a9b
 phase_id: 4e1c2f9a
 assigned_to: 2026-02-03T18:38:22+10:30
@@ -29,7 +29,7 @@ N/A
 A research document summarizing TUI extension APIs, constraints, relevant patterns, challenges, and integration options for other extensions.
 
 ## Actual Outcome
-Blocked: Unable to delegate research to the required Deep Researcher subagent; agent not available via tooling.
+Completed research in `.memory/research-6b7f2d1c-tui-extension-apis.md` covering overlay patterns, constraints, focus/input handling, and integration options.
 
 ## Lessons Learned
-Need verified subagent name/configuration to proceed with delegated research.
+Overlay lifecycle requires creating new component instances on reopen; render line width limits are critical for drawer layouts.
