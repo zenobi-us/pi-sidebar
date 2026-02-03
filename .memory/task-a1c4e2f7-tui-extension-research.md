@@ -29,7 +29,7 @@ N/A
 A research document summarizing TUI extension APIs, constraints, relevant patterns, challenges, and integration options for other extensions.
 
 ## Actual Outcome
-TBD
+Blocked: Unable to delegate research to the required Deep Researcher subagent; agent not available via tooling.
 
 ## Lessons Learned
-TBD
+Need verified subagent name/configuration to proceed with delegated research.
