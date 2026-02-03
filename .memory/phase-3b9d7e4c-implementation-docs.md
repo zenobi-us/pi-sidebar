@@ -20,8 +20,13 @@ Build the side drawer extension, add tests, and publish usage documentation.
 - Documentation and examples.
 
 ## Tasks
-- task-3c2a9f1d-implement-drawer-extension.md
-- task-6b1e4d7a-add-docs-examples.md
+- story-5f8a1c2d-core-drawer-behavior.md
+- story-7b2d9f4e-extension-integration.md
+- story-1c6e8a9f-documentation-examples.md
+- task-4a1d9b2c-implement-core-drawer.md
+- task-8e2f7c1a-implement-events-commands.md
+- task-6d3c9b4e-add-drawer-tests.md
+- task-2f5b7a9c-add-drawer-docs.md
 
 ## Dependencies
 - Approved API and UX design from phase 8c5a6d1e.
