@@ -2,6 +2,9 @@
   "name": "@zenobius/pi-sidebar",
   "version": "0.1.0",
   "description": "a sidebar to track session information. modular, extensible",
+  "keywords": [
+    "pi-package"
+  ],
   "author": {
     "name": "Zenobius Jiricek",
     "email": "airtonix@users.noreply.github.com"
