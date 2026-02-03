@@ -12,7 +12,7 @@ end_criteria: API spec, UX behavior notes, and integration guidance documented.
 # API and UX Design
 
 ## Overview
-Design the extension API, drawer behaviors, and integration approach based on research.
+Design the extension API, drawer behaviors, and integration approach based on research. See story-2d9c5f8a-side-drawer-extension-api.md for requirements.
 
 ## Deliverables
 - API proposal (props, configuration, lifecycle hooks).
@@ -20,7 +20,7 @@ Design the extension API, drawer behaviors, and integration approach based on re
 - Integration notes for consumers of the extension.
 
 ## Tasks
-- story-2d9c5f8a-side-drawer-extension-api.md
+- task-91b6c0d2-draft-drawer-api.md
 
 ## Dependencies
 - Research findings from phase 4e1c2f9a.
