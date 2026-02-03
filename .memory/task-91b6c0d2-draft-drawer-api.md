@@ -2,8 +2,8 @@
 id: 91b6c0d2
 title: Draft Side Drawer API Proposal
 created_at: 2026-02-03T19:50:30+10:30
-updated_at: 2026-02-03T19:50:30+10:30
-status: todo
+updated_at: 2026-02-03T19:56:30+10:30
+status: completed
 epic_id: 7f2c1a9b
 phase_id: 8c5a6d1e
 story_id: 2d9c5f8a
@@ -29,7 +29,7 @@ Draft the public API and UX behavior spec for the side drawer extension, aligned
 A documented API/UX proposal ready for review.
 
 ## Actual Outcome
-TBD
+Drafted API/UX proposal in `.memory/knowledge-5a7c2e1b-side-drawer-api-spec.md`.
 
 ## Lessons Learned
-TBD
+Event bus integration (`pi.events`) provides a clean way for other extensions to toggle or populate the drawer without direct dependencies.
